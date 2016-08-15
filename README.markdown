@@ -16,7 +16,7 @@ The elements that observe these contexts are written like this: `<div class="c-a
 
 ### Example
 
-```
+```html
 <body class="appcolor=accounts">
   <div><!-- modal-like thing -->
     <header class="gc-appcolor c-white">
@@ -52,20 +52,20 @@ The [main css](./planningcenter-minions.css) file is in the root of this project
 
 Install the package.
 
-```
+```bash
 npm i -D planningcenter-minions.css
 ```
 
 Add it to your build pipeline. I'll assume you know how to do that. Here's what it looks like using Webpakc/css-laoder:
 
-```
+```js
 import "planningcenter-minions"
 ```
 
-### <link />
+### link tag
 
 Obviously you can include this using a link-tag.
 
-```
+```html
 <link rel="stylesheet" href="./path/to/planningcenter-minions.css" />
 ```
