@@ -1,0 +1,20 @@
+{
+  "name": "planningcenter-minions.css",
+  "version": "0.0.1",
+  "description": "A minions.css extensions for Planning Center app colors.",
+  "main": "planningcenter-minions.css",
+  "style": "planningcenter-minions.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chantastic/planningcenter-minions.css.git"
+  },
+  "author": "Michael Chan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chantastic/planningcenter-minions.css/issues"
+  },
+  "homepage": "https://github.com/chantastic/planningcenter-minions.css#readme"
+}
