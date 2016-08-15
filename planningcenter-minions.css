@@ -1,0 +1,46 @@
+/*! planningcenter-minions.css v0.0.1 | MIT License | github.com/chantastic/planningcenter-minions.css */
+
+.appcolor\=accounts .gc-appcolor { background-color: #4e7ba8 }
+.appcolor\=accounts .bc-appcolor { border-color: #4e7ba8 }
+.appcolor\=accounts .c-appcolor { color: #4e7ba8 }
+.appcolor\=accounts .f-appcolor { fill: #4e7ba8 }
+
+.appcolor\=check-ins .gc-appcolor { background-color: #8c6999 }
+.appcolor\=check-ins .bc-appcolor { border-color: #8c6999 }
+.appcolor\=check-ins .c-appcolor { color: #8c6999 }
+.appcolor\=check-ins .f-appcolor { fill: #8c6999 }
+
+.appcolor\=giving .gc-appcolor { background-color: #f4c551 }
+.appcolor\=giving .bc-appcolor { border-color: #f4c551 }
+.appcolor\=giving .c-appcolor { color: #f4c551 }
+.appcolor\=giving .f-appcolor { fill: #f4c551 }
+
+.appcolor\=groups .gc-appcolor { background-color: #f58a4f }
+.appcolor\=groups .bc-appcolor { border-color: #f58a4f }
+.appcolor\=groups .c-appcolor { color: #f58a4f }
+.appcolor\=groups .f-appcolor { fill: #f58a4f }
+
+.appcolor\=registrations .gc-appcolor { background-color: #569690 }
+.appcolor\=registrations .bc-appcolor { border-color: #569690 }
+.appcolor\=registrations .c-appcolor { color: #569690 }
+.appcolor\=registrations .f-appcolor { fill: #569690 }
+
+.appcolor\=resources .gc-appcolor { background-color: #cc4f3e }
+.appcolor\=resources .bc-appcolor { border-color: #cc4f3e }
+.appcolor\=resources .c-appcolor { color: #cc4f3e }
+.appcolor\=resources .f-appcolor { fill: #cc4f3e }
+
+.appcolor\=people .gc-appcolor { background-color: #5979b3 }
+.appcolor\=people .bc-appcolor { border-color: #5979b3 }
+.appcolor\=people .c-appcolor { color: #5979b3 }
+.appcolor\=people .f-appcolor { fill: #5979b3 }
+
+.appcolor\=planning-center .gc-appcolor { background-color: #3565cf }
+.appcolor\=planning-center .bc-appcolor { border-color: #3565cf }
+.appcolor\=planning-center .c-appcolor { color: #3565cf }
+.appcolor\=planning-center .f-appcolor { fill: #3565cf }
+
+.appcolor\=services .gc-appcolor { background-color: #6e9541 }
+.appcolor\=services .bc-appcolor { border-color: #6e9541 }
+.appcolor\=services .c-appcolor { color: #6e9541 }
+.appcolor\=services .f-appcolor { fill: #6e9541 }
